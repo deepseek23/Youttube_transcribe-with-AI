@@ -159,7 +159,7 @@ source .venv/bin/activate
 Install dependencies:
 
 ```bash
-pip install fastapi uvicorn pydantic youtube-transcript-api langchain langchain-core langchain-community langchain-text-splitters langchain-huggingface sentence-transformers faiss-cpu
+pip install -r requirements.txt
 ```
 
 Run backend:
